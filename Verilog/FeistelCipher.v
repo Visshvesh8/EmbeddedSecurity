@@ -14,7 +14,7 @@ module feistel(p, k, c, rst, clk);
                l = 16'b0000_0000_0000_0000;
                r = 16'b0000_0000_0000_0000;
                w = 0;
-         // 32Bit C;
+         
            end
            
            else
